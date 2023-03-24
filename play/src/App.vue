@@ -5,7 +5,7 @@ import { AddCircle } from '@vicons/ionicons5'
 <template>
   <div>
     vue3-ui组件开发
-    <wx-icon color="red"><AddCircle></AddCircle></wx-icon>
+    <wx-icon color="green" size="20"><AddCircle></AddCircle></wx-icon>
     
   </div>
 </template>
