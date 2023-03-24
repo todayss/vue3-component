@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "types": ["unplugin-vue-define-options/macros-global"],
     "module": "ESNEXT",
     "declaration": false,
     "strict": true,
