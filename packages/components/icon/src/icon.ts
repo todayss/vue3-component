@@ -7,7 +7,7 @@ export const iconProps = {
   },
   size: {
     type: [String, Number],
-    default: ''
+    default: 14
   }
 }
 

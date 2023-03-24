@@ -20,7 +20,9 @@
   "homepage": "https://github.com/todayss/vue3-component#readme",
   "devDependencies": {
     "@wan-xiang/components": "workspace:^1.0.0",
+    "@wan-xiang/theme-chalk": "workspace:^1.0.0",
     "@wan-xiang/utils": "workspace:^1.0.0",
+    "sass": "^1.60.0",
     "typescript": "^5.0.2",
     "unplugin-vue-define-options": "0.12.2",
     "vue": "^3.2.47"
